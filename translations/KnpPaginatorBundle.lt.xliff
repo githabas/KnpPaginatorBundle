@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="0" resname="label_previous">
         <source>label_previous</source>
-        <target>Ankstesnis</target>
+        <target>Atgal</target>
       </trans-unit>
       <trans-unit id="1" resname="label_next">
         <source>label_next</source>
-        <target>Sekantis</target>
+        <target>Tolyn</target>
       </trans-unit>
       <trans-unit id="2" resname="filter_searchword">
         <source>filter_searchword</source>
